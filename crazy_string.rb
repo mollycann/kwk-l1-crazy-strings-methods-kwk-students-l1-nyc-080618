@@ -1,5 +1,2 @@
-# write your method here
+crazy_strings ("hello,"friends")
 
-def crazy_strings(a,b)
-
-end
